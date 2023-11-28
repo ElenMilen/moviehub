@@ -1,0 +1,36 @@
+.filmInsideImage{
+    width: 350px;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+.filmBox{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.desc{
+    font-family: 'Quicksand', sans-serif;
+    width: 100%;
+    font-size: larger;
+    .star{
+    color: yellow;
+    }
+}
+.filmInside{
+    height: calc(100vh - 90px);
+    h2{
+        text-align: left;
+    }
+}
+@media screen and (max-width: 786px) {
+    .filmBox{
+        flex-direction: column;
+        align-items: center;
+    }
+    .filmInside{
+        // height: unset;
+    }
+}
