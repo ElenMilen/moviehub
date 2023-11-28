@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/moviehub/static/css/main.3f639610.css",
-    "main.js": "/moviehub/static/js/main.6280f812.js",
+    "main.js": "/moviehub/static/js/main.9ce7c641.js",
     "static/js/787.3d585c74.chunk.js": "/moviehub/static/js/787.3d585c74.chunk.js",
     "static/media/movieHub.png": "/moviehub/static/media/movieHub.99ab3015ef5595dd5a20.png",
     "static/media/searchIcon.png": "/moviehub/static/media/searchIcon.a27091ef0c45faf8a66e.png",
     "index.html": "/moviehub/index.html",
     "main.3f639610.css.map": "/moviehub/static/css/main.3f639610.css.map",
-    "main.6280f812.js.map": "/moviehub/static/js/main.6280f812.js.map",
+    "main.9ce7c641.js.map": "/moviehub/static/js/main.9ce7c641.js.map",
     "787.3d585c74.chunk.js.map": "/moviehub/static/js/787.3d585c74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f639610.css",
-    "static/js/main.6280f812.js"
+    "static/js/main.9ce7c641.js"
   ]
 }
